@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+	xmlns:android="http://schemas.android.com/apk/res/android" android:title="@string/app_name" android:summary="@string/pref">
+	<CheckBoxPreference
+		android:summary="@string/pref_tablice_sum"
+		android:title="@string/pref_tablice"
+		android:key="query_tablice"
+		android:defaultValue="true" android:enabled="true">
+	</CheckBoxPreference>
+	<CheckBoxPreference
+		android:summary="@string/pref_nazwa_sum"
+		android:title="@string/pref_nazwa"
+		android:key="query_nazwa"
+		android:defaultValue="true">
+	</CheckBoxPreference>
+</PreferenceScreen>

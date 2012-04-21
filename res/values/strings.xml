@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string
+		name="hello">Wpisz numer tablicy rejestracyjnej:</string>
+	<string
+		name="app_name">Polskie Tablice Rejestracyjne</string>
+	<string
+		name="about">O programie</string>
+	<string
+		name="about_text">
+		<b>Polskie Tablice Rejestracyjne, wer. 1.1</b>\n
+		Bezpłatna wyszukiwarka oznaczeń polskich tablic rejestracyjnych.\n\n
+		Aplikacja wykonana przez Araneo Sp. z o.o.\n
+		www.araneo.pl
+	</string>
+	<string
+		name="pref_tablice">Wyszukuj tablice</string>
+	<string
+		name="pref_nazwa">Wyszukuj po nazwie</string>
+	<string
+		name="pref_nazwa_sum">Wyszukiwanie po nazwie miejscowości lub instytucji</string>
+	<string
+		name="pref_tablice_sum">Wyszukiwanie na podstawie numeru tablicy</string>
+	<string
+		name="pref">Ustawienia</string>
+</resources>
